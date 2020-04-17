@@ -8,4 +8,5 @@
    sudo cp *.a /usr/lib
 
 < Running gtest >
-1. 
+1. Makefile has the rule named "test". It runs gtest.
+   make test
